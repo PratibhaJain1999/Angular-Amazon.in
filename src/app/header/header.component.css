@@ -1,0 +1,45 @@
+img{
+    height: 57px;
+    color: #0F1111;
+    background-color: green;
+    width: 5%;
+}
+a{
+    color: white;
+}
+.search-input{
+    width: 540px;
+}
+nav{
+    height: 65px;
+    background-color: black;
+
+
+}
+select{
+        background-color: #e9ecef;
+        border: none;
+    }
+    .btn{
+        background-color: goldenrod;
+    }
+.img1{
+   width: 30%;
+   height: 25px;
+}
+.hellos{
+    color: white;
+}
+.fa-shopping-cart{
+    color: white;
+    font-size: 20px;
+}
+#amazon1{
+    background-color: black;
+    ;
+    color: white;
+    
+}
+.span1{
+    color: white;
+}
