@@ -1,8 +1,13 @@
 img{
     height: 25px;
     background-color: #343a40;
+    
 }
 select{
     background-color: #343a40;
     border: none;
+    color: white;
+}
+nav{
+    width: 100%;
 }

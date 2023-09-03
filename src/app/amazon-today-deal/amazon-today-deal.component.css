@@ -1,0 +1,19 @@
+li{
+    list-style: none;
+}
+a{
+    color: black;
+}
+img{
+    height: 200px;
+    border-radius: 20px;
+}
+.card{
+    height: 400px;
+}
+#airpods{
+    height: 200px;
+}
+.cards{
+    width: 200px;
+}

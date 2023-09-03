@@ -11,9 +11,18 @@ a{
     width: 540px;
 }
 nav{
-    height: 65px;
     background-color: black;
 
+
+}
+.bttttn{
+    background-color: black;
+}
+button{
+  
+    color: white;
+    height: auto;
+    border: none;
 
 }
 select{
@@ -34,6 +43,9 @@ select{
     color: white;
     font-size: 20px;
 }
+.btttn{
+    background-color: black;
+}
 #amazon1{
     background-color: black;
     ;
@@ -42,4 +54,23 @@ select{
 }
 .span1{
     color: white;
+}
+a{
+    background-color: black;
+    color: black;
+}
+.img {
+        height: 45px;
+        color: #0F1111;
+        background-color: green;
+        width: 100%;
+    }
+    nav {
+        height: 65px;
+        background-color: black;
+        width: 100%;
+    }
+    button[_ngcontent-ng-c2332877253] {
+    color: white;
+    border: none;
 }
